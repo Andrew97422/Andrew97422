@@ -74,7 +74,7 @@ A production-style backend system for credit scoring and risk assessment.
 
 ## 📫 Contact
 
-- Email: nosoff.4ndr@yandex.ru
+- Email: nosovandrew6@gmail.com
 - GitHub: https://github.com/Andrew97422
 
 ---
